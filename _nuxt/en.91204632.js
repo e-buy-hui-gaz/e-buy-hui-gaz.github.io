@@ -1,0 +1,1 @@
+const t={brand:{title:{t:0,b:{t:2,i:[{t:3}],s:"B1 G Elves - Пътна Карта на Газпром"}},moto:{t:0,b:{static:"",t:2,i:[]}}},org:{name:{t:0,b:{t:2,i:[{t:3}],s:"123 BG Elves"}}},hero:{presents:{t:0,b:{t:2,i:[{t:3}],s:"123 представя"}},production_of:{t:0,b:{t:2,i:[{t:3}],s:"една продукция на"}},the_road_map:{t:0,b:{t:2,i:[{t:3}],s:"Пътната Карта"}}}};export{t as default};
